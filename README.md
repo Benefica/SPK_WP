@@ -9,3 +9,5 @@ pass admin01
 Untuk login Sales :
 username Sales01
 pass sales01
+
+Special Thanks to Fattachul Huda Aminuddin (Channel Youtube) untuk referensi dari kode program metode Weighted Productnya
